@@ -1,4 +1,4 @@
-# Slackbot Reminder
+# python slackbot that returns a reminder
 
 At ZeroEyes, the AI weapon-detection company I currently work for, we have strict procedures to follow in the event that a 
 real gun is detected. We have a checklist on Monday.com to reference, but lately things have been falling through the cracks. We track these
