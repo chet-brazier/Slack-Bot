@@ -1,9 +1,6 @@
-# Python slackbot that returns a reminder
+# Python slackbot that reminds users to follow a checklist for certain tasks
 
-At ZeroEyes, the AI weapon-detection company I currently work for, we have strict procedures to follow in the event that a 
-real gun is detected. We have a checklist on Monday.com to reference, but lately things have been falling through the cracks. We track these
-things using slack, so this is a Slack bot that in the instance of a real gun detection returns a reminder to the user to follow
-the checklist on Monday.com.
+We use Slack at my job to track most of our daily tasks. In certain situations, we also use a checklist on Monday.com to ensure we complete necessary steps. Due to past instances of people skipping steps, this slack bot returns a reminder to follow the checklist in the event it is required.
 ---
 
 ## Architecture diagram
