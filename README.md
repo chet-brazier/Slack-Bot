@@ -3,7 +3,7 @@
 At my workplace, we use Slack to track most of our daily operations. In certain situations, we also use a checklist on Monday.com to ensure we complete necessary steps. Due to past instances of people skipping steps, this slack bot returns a reminder to follow the checklist in the event it is required.
 ---
 
-## Architecture diagram
+## Architecture 
 
 ![Slackbot Architecture](slackbot-architecture.png)
 
